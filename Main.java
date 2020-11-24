@@ -36,3 +36,5 @@ public class Main {
         }
     }
 }
+// A person's life can change completely with a single education
+//Discord : Burakuslendera#5005
